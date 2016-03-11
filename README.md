@@ -14,7 +14,7 @@ Quick Start with Heroku
 
 The fastest way to get started with Elovation is to click the deploy to [Heroku](http://www.heroku.com) button below. Elovation can be run on the free tier, so all you will require is a Heroku account to get started with no running costs.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/elovation/elovation)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/jianghong/elovation)
 
 If you would like to add a level of authentication security to your app on Heroku, on the setup screen set the "BASIC_AUTH" to "true", and set a username and password in their respective fields. When you try to access your app in future, you will be prompted for your credentials.
 
